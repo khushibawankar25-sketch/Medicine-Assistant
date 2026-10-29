@@ -1,1 +1,1 @@
-https://medicine-assistant.netlify.app - deployable domain
+ - deployable domain
